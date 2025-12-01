@@ -12,7 +12,8 @@ This lab teaches you how to automate data workflows using:
 By the end of this lab, you'll orchestrate batch and streaming pipelines and configure automated monitoring for production-grade ML workflows.
 
 ---
-
+🎥 **YouTube Tutorial:**  
+https://youtu.be/ZFtSZoGgvSU
 
 ---
 
