@@ -1,5 +1,27 @@
 # **AWS EFS Tutorial: Create and Mount Amazon EFS to EC2 (Step-by-Step Hands-On Lab)**
 
+🎥 **YouTube Tutorial:**  
+https://youtu.be/W4DiqtLB7HM
+
+Here is a **clean, accurate, EFS-specific cost warning** rewritten for your AWS EFS Tutorial:
+
+---
+
+> ⚠️ **AWS Cost Warning**
+>
+> This hands-on lab uses **Amazon EFS**, **Amazon EC2**, and **Amazon VPC** networking components, which may incur small charges in your AWS account—especially if the EFS file system remains active.
+>
+> To minimize costs:
+>
+> * **Delete the EFS file system** immediately after completing the lab.
+> * **Stop or terminate the EC2 instance** when not in use.
+> * Remove any associated **mount targets** or **security groups** created for the lab.
+> * Use smaller EC2 instance types (Free Tier eligible) whenever possible.
+> * Set an **AWS Budget** (recommended: $1–$5) with email alerts.
+>
+> Always clean up storage and compute resources after finishing the exercise.
+
+
 ## **Objective**
 
 In this hands-on lab, you will create an **Amazon Elastic File System (EFS)** and mount it to an **Amazon EC2** instance.
