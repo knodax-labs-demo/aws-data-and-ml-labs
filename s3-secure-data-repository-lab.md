@@ -1,4 +1,4 @@
-# **1.3.5 Lab: Designing Secure and Accessible Data Repositories**
+# **Hands-on Lab: Designing Secure and Accessible Data Repositories**
 
 ## **Objective**
 
