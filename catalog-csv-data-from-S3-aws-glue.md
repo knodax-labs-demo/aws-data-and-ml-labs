@@ -3,6 +3,16 @@
 🎥 **YouTube Tutorial:**  
 https://youtu.be/ah83c3lMMK8
 
+> ⚠️ **AWS Cost Warning**
+>
+> This hands-on lab uses AWS Glue, Amazon S3, and related services that may incur small charges in your AWS account.  
+> To minimize costs:
+> - Delete Glue Crawlers, Data Catalog tables, and temporary S3 objects after completing the lab.
+> - Use the AWS Free Tier where possible.
+> - Set an **AWS Budget** (recommended: $1–$5) with email alerts.
+>
+> Always clean up resources when you finish the exercise.
+
 ## 🎯 Objective
 
 This lab focuses on identifying, cataloging, and evaluating internal and external data sources using **AWS Glue**.  
