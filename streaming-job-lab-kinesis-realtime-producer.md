@@ -4,6 +4,8 @@
 
 This hands-on lab introduces real-time data ingestion using **Amazon Kinesis Data Streams**. You will create a stream, deploy a Python producer to push event records, and observe or consume the data.
 
+🎥 **YouTube Tutorial:**  
+https://youtu.be/YcyxTY1Ofek
 ---
 
 > ⚠️ **AWS Cost Warning**
