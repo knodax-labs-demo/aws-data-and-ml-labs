@@ -107,3 +107,9 @@ s3://your-bucket-name/sample-data/*
 3. Go to **AWS Glue → Data Catalog → Databases → Tables**.
 4. Verify that a table is created for your S3 dataset.
 
+## ✅ Summary
+
+By cataloging internal S3 datasets you gain visibility into the structure of your data sources.
+
+This ensures your **ML workflows start with high-quality, well-organized data**, which is essential for accurate model training and robust machine learning pipelines.
+
