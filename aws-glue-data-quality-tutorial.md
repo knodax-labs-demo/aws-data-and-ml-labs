@@ -4,6 +4,16 @@
 🎥 **YouTube Tutorial:**  
 https://youtu.be/ZXP683XmiGo
 
+> ⚠️ **AWS Cost Warning**
+>
+> This hands-on lab uses AWS Glue, Amazon S3, and related services that may incur small charges in your AWS account.  
+> To minimize costs:
+> - Delete Glue Crawlers, Data Catalog tables, and temporary S3 objects after completing the lab.
+> - Use the AWS Free Tier where possible.
+> - Set an **AWS Budget** (recommended: $1–$5) with email alerts.
+>
+> Always clean up resources when you finish the exercise.
+
 ---
 
 ## 🎯 Objective
