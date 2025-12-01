@@ -3,6 +3,7 @@
 🎥 **YouTube Tutorial:**  
 https://youtu.be/ah83c3lMMK8
 
+
 > ⚠️ **AWS Cost Warning**
 >
 > This hands-on lab uses AWS Glue, Amazon S3, and related services that may incur small charges in your AWS account.  
