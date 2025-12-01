@@ -6,6 +6,8 @@
 
 This hands-on lab walks you through building a **batch data processing job** using **Amazon S3** and **AWS Glue**. You will upload sample data to S3, catalog it using a Glue crawler, and run a Glue ETL job that transforms the data and writes it back to S3 in Parquet format.
 
+🎥 **YouTube Tutorial:**  
+https://youtu.be/CJJo4mDuoMk
 ---
 
 > ⚠️ **AWS Cost Warning**
