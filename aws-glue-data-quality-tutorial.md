@@ -16,7 +16,7 @@ These steps provide hands-on experience with foundational AWS data management ta
 
 ---
 
-## valuate Data Quality Using AWS Glue Data Quality Rules
+## Evaluate Data Quality Using AWS Glue Data Quality Rules
 
 ### **Create a Data Quality Ruleset**
 
