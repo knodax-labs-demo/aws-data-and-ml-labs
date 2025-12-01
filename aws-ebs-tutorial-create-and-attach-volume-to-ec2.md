@@ -1,5 +1,27 @@
 # **AWS EBS Tutorial: Create and Attach an EBS Volume to EC2 (Step-by-Step Hands-On)**
 
+🎥 **YouTube Tutorial:**  
+https://youtu.be/W4DiqtLB7HM
+
+Here is the **AWS EBS–specific cost warning**, rewritten to match your style and formatting:
+
+---
+
+> ⚠️ **AWS Cost Warning**
+>
+> This hands-on lab uses **Amazon EBS** and **Amazon EC2**, which may incur charges in your AWS account—especially if the EBS volume remains allocated after the lab.
+>
+> To minimize costs:
+>
+> * **Delete the EBS volume** immediately after completing the lab.
+> * **Stop or terminate the EC2 instance** when not in use.
+> * Remove any additional **snapshots** you may have created.
+> * Use Free Tier–eligible EC2 instance types whenever possible.
+> * Set an **AWS Budget** (recommended: $1–$5) with email alerts.
+>
+> Always clean up block storage and compute resources when you finish the exercise.
+
+
 ## **Objective**
 
 In this lab, you will:
