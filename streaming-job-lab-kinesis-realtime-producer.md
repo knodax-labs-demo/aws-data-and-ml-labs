@@ -71,6 +71,8 @@ time.sleep(1)
 
 ### **2.3 Monitor Stream Data**
 
+![Alt text](images/2-3-monitor-kinesis-data-stream.png)
+
 You can view incoming records using:
 
 * **Kinesis Console → Data Viewer**, or
