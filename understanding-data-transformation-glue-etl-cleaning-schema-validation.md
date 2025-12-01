@@ -14,6 +14,10 @@ You will:
 * Write the processed dataset to a **new S3 bucket**
 
 ---
+🎥 **YouTube Tutorial:**  
+https://youtu.be/FqIrBzNqp78
+
+---
 
 > ⚠️ **AWS Cost Warning**
 >
