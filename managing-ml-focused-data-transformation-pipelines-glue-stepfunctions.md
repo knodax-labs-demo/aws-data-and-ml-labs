@@ -1,6 +1,6 @@
 
 
-# ** Hands-on Lab: Managing ML-Focused Data Transformation Pipelines**
+# **Hands-on Lab: Managing ML-Focused Data Transformation Pipelines**
 
 ## **Objective**
 
