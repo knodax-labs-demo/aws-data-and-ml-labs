@@ -1,0 +1,8 @@
+# macOS system files
+.DS_Store
+
+# Temporary files
+*.tmp
+
+# VS Code settings (optional but recommended)
+.vscode/
