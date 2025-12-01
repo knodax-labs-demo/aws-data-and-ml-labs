@@ -6,6 +6,7 @@ This hands-on lab introduces real-time data ingestion using **Amazon Kinesis Dat
 
 🎥 **YouTube Tutorial:**  
 https://youtu.be/YcyxTY1Ofek
+
 ---
 
 > ⚠️ **AWS Cost Warning**
