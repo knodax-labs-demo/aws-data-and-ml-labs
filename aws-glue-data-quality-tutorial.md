@@ -65,7 +65,7 @@ These results help you determine whether your data is:
 
 ## ✅ Summary
 
-By cataloging internal S3 datasets and applying AWS Glue Data Quality rules, you gain visibility into the structure, completeness, and reliability of your data sources.
+By applying AWS Glue Data Quality rules, you gain visibility into completeness, and reliability of your data sources.
 
 This ensures your **ML workflows start with high-quality, well-organized data**, which is essential for accurate model training and robust machine learning pipelines.
 
