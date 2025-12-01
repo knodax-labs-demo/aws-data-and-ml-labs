@@ -36,6 +36,8 @@ These steps provide hands-on experience with foundational AWS data management ta
 4. Choose **Evaluate Data Quality (Multiframe)**.
 5. In the **Ruleset Editor**, define rule types.
 
+![Alt text](images/1-1-5-evaluate-data-quality.png)
+
 ### **Example Data Quality Rules**
 
 ```text
