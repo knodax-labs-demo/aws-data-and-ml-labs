@@ -70,6 +70,9 @@ https://youtu.be/iB9qoFPTf88
 Attach it to the **route table** used by EMR subnets.
 This allows Hadoop/HDFS jobs to access S3 without public internet.
 
+![Alt text](images/3-3-4-emr-1.png)
+![Alt text](images/3-3-4-emr-2.png)
+
 ---
 
 ## **S3 Bucket Policy Example**
@@ -116,8 +119,11 @@ Since EMR nodes run in **private subnets**, you must:
 * Create an **EC2 Instance Connect Endpoint**
 * Update EMR master node **security group**:
 
+![Alt text](images/3-3-4-emr-3.png)
+
 Allow inbound SSH (port 22) **from the EC2 Connect Endpoint security group**
 
+![Alt text](images/3-3-4-emr-3.png)
 ---
 
 ## **1.2 Prepare Sample Large Text Data**
