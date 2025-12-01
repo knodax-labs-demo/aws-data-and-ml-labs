@@ -3,10 +3,6 @@
 🎥 **YouTube Tutorial:**  
 https://youtu.be/W4DiqtLB7HM
 
-Here is a **clean, accurate, EFS-specific cost warning** rewritten for your AWS EFS Tutorial:
-
----
-
 > ⚠️ **AWS Cost Warning**
 >
 > This hands-on lab uses **Amazon EFS**, **Amazon EC2**, and **Amazon VPC** networking components, which may incur small charges in your AWS account—especially if the EFS file system remains active.
