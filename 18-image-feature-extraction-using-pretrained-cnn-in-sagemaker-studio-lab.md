@@ -6,6 +6,10 @@ https://youtu.be/7K-gnWlgAt8
 
 ---
 
+## 📁 **Source Code:**  
+https://github.com/knodax-labs-demo/aws-data-and-ml-labs/tree/main/18-extract-image-features-using-pre-trained-cnn-models
+
+---
 ## ⚠️ **Cost & Resource Usage Warning (SageMaker Studio Lab)**
 
 Although **SageMaker Studio Lab is free**, resources are limited:
