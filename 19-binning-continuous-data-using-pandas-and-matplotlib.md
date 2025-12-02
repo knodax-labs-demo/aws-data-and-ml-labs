@@ -3,12 +3,12 @@
 🎥 **YouTube Tutorial:**  
 https://youtu.be/k6t4jbSZ9_8
 
-## 📘 Companion Notebook
+---
 
-A runnable Jupyter notebook for this lab is available here:
+## 📁 **Source Code:**  
+https://github.com/knodax-labs-demo/aws-data-and-ml-labs/tree/main/19-binning-of-continuous-data
 
-👉 https://github.com/knodax-labs-demo/aws-data-and-ml-labs/blob/main/notebooks/binning-of-continuous-data.ipynb
-
+---
 ## ⚠️ Cost & Resource Usage Warning
 
 Running pandas and matplotlib in a notebook environment (such as **SageMaker Studio Lab**, **Google Colab**, or **Jupyter**) is generally free or low cost.
