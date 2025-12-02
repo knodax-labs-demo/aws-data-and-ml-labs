@@ -9,6 +9,11 @@ https://youtu.be/YcyxTY1Ofek
 
 ---
 
+📁 **Source Code and Data:**  
+https://github.com/knodax-labs-demo/aws-data-and-ml-labs/tree/main/07-streaming-job-lab-kinesis
+
+---
+
 > ⚠️ **AWS Cost Warning**
 >
 > Kinesis Data Streams is **not Free Tier** and can incur charges if the stream remains active.
