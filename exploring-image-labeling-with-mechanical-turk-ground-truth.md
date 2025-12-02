@@ -195,5 +195,3 @@ By completing this lab, you gained familiarity with:
 * Understanding image labeling job setup
 * Exploring MTurk and workforce types
 * Reviewing task templates and configuration options
-
-Just let me know!
