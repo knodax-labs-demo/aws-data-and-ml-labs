@@ -6,7 +6,7 @@ https://youtu.be/7K-gnWlgAt8
 
 ---
 
-## 📁 **Source Code:**  
+## 📁 **Source Code and Data:**  
 https://github.com/knodax-labs-demo/aws-data-and-ml-labs/tree/main/18-extract-image-features-using-pre-trained-cnn-models
 
 ---
