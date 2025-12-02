@@ -179,6 +179,3 @@ You should now see cleaned CSV files with:
 | Output           | Cleaned data written to target S3 bucket    |
 | Tools Used       | S3, Glue Data Catalog, Glue Studio, PySpark |
 
-
-
-Just tell me!
