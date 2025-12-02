@@ -1,4 +1,4 @@
-# AWS Data and ML Labs
+# AWS Data Engineering and ML Labs
 
 This repository provides a unified collection of **hands-on labs, datasets, and tutorial resources** for:
 
