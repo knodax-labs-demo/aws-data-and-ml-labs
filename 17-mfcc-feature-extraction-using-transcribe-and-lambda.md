@@ -26,7 +26,7 @@ https://youtu.be/YsBrzAFkqoo
 This lab walks you through building an automated workflow to extract Mel-Frequency Cepstral Coefficients (MFCC) from speech data using AWS S3, Amazon Transcribe, Amazon ECR, and AWS Lambda.
 
 ---
-📁 **Source Code:**  
+📁 **Source Code and Data:**  
 https://github.com/knodax-labs-demo/aws-data-and-ml-labs/tree/main/17-mfcc-feature-extraction
 
 ---
