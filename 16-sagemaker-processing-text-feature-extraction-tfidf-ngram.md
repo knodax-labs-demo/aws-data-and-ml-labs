@@ -21,7 +21,13 @@ You will:
 🎥 **YouTube Tutorial:**  
 https://youtu.be/8yNm7omBEvg
 
--- 
+---
+📁 **Source Code and Data:**  
+https://github.com/knodax-labs-demo/aws-data-and-ml-labs/tree/main/16-sagemaker-processing-text-feature-extraction-tfidf-ngram
+
+---
+
+
 
 > ⚠️ **AWS Cost Warning**
 >
