@@ -20,6 +20,11 @@ https://youtu.be/11GLROw3bEQ
 
 --
 
+📁 **Source Code and Data:**  
+https://github.com/knodax-labs-demo/aws-data-and-ml-labs/tree/main/08-orchestrating-data-ingestion-pipelines-kinesis-firehose
+
+---
+
 > ⚠️ **AWS Cost Warning**
 >
 > This lab uses **Amazon Kinesis Data Streams**, **Kinesis Data Firehose**, and **Amazon S3**, which **are not fully Free Tier–eligible**.
