@@ -1,0 +1,6 @@
+review_id,review_text,tokens
+1,I absolutely loved this product! It works great and the quality is fantastic.,"['absolutely', 'loved', 'product', 'works', 'great', 'quality', 'fantastic']"
+2,"Not bad, but shipping was slow... I might try a different seller next time.","['bad', 'shipping', 'slow', 'might', 'try', 'different', 'seller', 'next', 'time']"
+3,Terrible experience. The item broke in two days and support was unhelpful.,"['terrible', 'experience', 'item', 'broke', 'two', 'days', 'support', 'unhelpful']"
+4,Decent value for the price. Could be better packaged.,"['decent', 'value', 'price', 'could', 'better', 'packaged']"
+5,Amazing! Fast delivery and excellent customer service. Highly recommend.,"['amazing', 'fast', 'delivery', 'excellent', 'customer', 'service', 'highly', 'recommend']"
