@@ -35,14 +35,6 @@ If you later store encoded data in **S3**, costs apply:
 
 ---
 
-## **📁 Suggested GitHub File Name**
-
-### **`5.2.8.3-one-hot-encoding-with-scikit-learn.md`**
-
-Clean, descriptive, and consistent with your earlier files.
-
----
-
 ## **1. Setup and Load Sample Data**
 
 ```python
