@@ -9,6 +9,11 @@ https://youtu.be/OzmOK92P-0k
 
 ---
 
+📁 **Source Code and Data:**  
+https://github.com/knodax-labs-demo/aws-data-and-ml-labs/tree/main/20-tokenization-with-nltk
+
+---
+
 ## **🔧 Objective**
 
 * Load a text dataset (sample reviews).
