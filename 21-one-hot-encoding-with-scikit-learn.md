@@ -19,6 +19,11 @@ https://youtu.be/-NFTLN3uhxQ
 
 ---
 
+📁 **Source Code and Data:**  
+https://github.com/knodax-labs-demo/aws-data-and-ml-labs/tree/main/21-one-hot-encoding
+
+---
+
 ## **⚠️ Cost Warning**
 
 This lab uses **Python only**—there are **no AWS services**, so no charges are incurred.
