@@ -1,3 +1,5 @@
+<img width="1280" height="640" alt="AWS Data Engineering and ML Labs (1)" src="https://github.com/user-attachments/assets/0437a393-7b2e-413c-abc4-37971f77c56d" />
+
 # AWS Data Engineering and ML Labs
 
 This repository provides a unified collection of **hands-on labs, datasets, and tutorial resources** for:
