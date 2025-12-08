@@ -1,5 +1,6 @@
 # **Hands-on Lab: Classification – Fraud Detection**
 
+Source Code: https://github.com/knodax-labs-demo/aws-data-and-ml-labs/tree/main/29-classification-fraud-detection
 ---
 
 ## **Step 1: Launch SageMaker Studio Notebook**
