@@ -272,6 +272,139 @@ This helps understand which signals—such as **Amount**, **Hour**, or specific 
 
 ---
 
+## 🔥 Cleanup: Delete the SageMaker Domain After Completing the Exercise
+
+If you no longer need SageMaker Studio and want to avoid ongoing charges, you can delete the entire **SageMaker Domain**.
+This will remove:
+
+* User profiles
+* Spaces
+* Studio applications
+* The control plane
+* (Optional) Home directory storage
+
+> **Important:** You must delete all **user profiles** and **spaces** before deleting the domain.
+
+---
+
+### 1. List Your SageMaker Domain
+
+```bash
+aws sagemaker list-domains
+```
+
+You will see something like:
+
+```json
+{
+  "Domains": [
+    {
+      "DomainId": "d-abc123xyz",
+      "DomainName": "default"
+    }
+  ]
+}
+```
+
+Copy your **DomainId** (example: `d-abc123xyz`).
+
+---
+
+### 2. Delete All User Profiles
+
+List them:
+
+```bash
+aws sagemaker list-user-profiles --domain-id d-abc123xyz
+```
+
+Delete each profile:
+
+```bash
+aws sagemaker delete-user-profile \
+  --domain-id d-abc123xyz \
+  --user-profile-name <PROFILE_NAME>
+```
+
+---
+
+### 3. Delete All Spaces (if any)
+
+List:
+
+```bash
+aws sagemaker list-spaces --domain-id d-abc123xyz
+```
+
+Delete each:
+
+```bash
+aws sagemaker delete-space \
+  --domain-id d-abc123xyz \
+  --space-name <SPACE_NAME>
+```
+
+---
+
+### 4. Delete the SageMaker Domain
+
+### ❗ Fix for the `--retention-policy` Error
+
+If you previously saw this error:
+
+```
+Error parsing parameter '--retention-policy': Expected: '=', received: 'EOF' for input: Delete
+```
+
+It means the CLI requires a **JSON key-value pair**, not just the word `Delete`.
+
+Here is the correct syntax.
+
+---
+
+### 🔵 **Delete the domain and delete home directories (full cleanup)**
+
+```bash
+aws sagemaker delete-domain \
+  --domain-id d-abc123xyz \
+  --retention-policy "{\"HomeEfsFileSystem\": \"Delete\"}"
+```
+
+### 🟢 **Delete the domain but keep home directories**
+
+```bash
+aws sagemaker delete-domain \
+  --domain-id d-abc123xyz \
+  --retention-policy "{\"HomeEfsFileSystem\": \"Retain\"}"
+```
+
+---
+
+### 5. Verify the Domain Is Gone
+
+```bash
+aws sagemaker list-domains
+```
+
+You should see an empty list.
+
+---
+
+## ✔️ **Cleanup Summary**
+
+* Delete **Spaces** → required
+* Delete **User Profiles** → required
+* Delete **Domain with correct JSON retention policy**
+* Prevents additional billing from:
+
+  * SageMaker Studio control plane
+  * EFS home directories (if deleted)
+
+---
+
+If you want, I can also create a **bash cleanup script** that performs all steps automatically with one command.
+
+
 ## **Summary**
 
 By completing these steps, you have:
@@ -281,4 +414,141 @@ By completing these steps, you have:
 * Trained a binary classification model in SageMaker Studio.
 * Evaluated the model using accuracy, precision, recall, and a confusion matrix.
 
+
+> **Script: Cleanup SageMaker Studio Domain, User Profiles, and Spaces**
+
+---
+
+```bash
+#!/usr/bin/env bash
+#
+# cleanup_sagemaker_domain.sh
+#
+# Deletes:
+#   - All SageMaker Spaces in a Domain
+#   - All User Profiles in a Domain
+#   - The SageMaker Domain itself
+#
+# Usage:
+#   ./cleanup_sagemaker_domain.sh                 # auto-detect first domain
+#   ./cleanup_sagemaker_domain.sh <DOMAIN_ID>     # delete specific domain
+#
+# Requirements:
+#   - AWS CLI configured (aws configure)
+#   - jq installed (for JSON parsing)
+
+set -euo pipefail
+
+echo "=== SageMaker Domain Cleanup Script ==="
+
+# 1. Resolve Domain ID
+if [ $# -ge 1 ]; then
+  DOMAIN_ID="$1"
+  echo "Using DOMAIN_ID from argument: $DOMAIN_ID"
+else
+  echo "No DOMAIN_ID provided, attempting to auto-detect the first domain..."
+  DOMAIN_ID=$(aws sagemaker list-domains --query "Domains[0].DomainId" --output text)
+
+  if [ "$DOMAIN_ID" = "None" ] || [ -z "$DOMAIN_ID" ]; then
+    echo "No SageMaker Domains found in this account/region."
+    exit 0
+  fi
+
+  echo "Auto-detected DOMAIN_ID: $DOMAIN_ID"
+fi
+
+echo
+echo "WARNING: This will delete:"
+echo "  - All Spaces in domain: $DOMAIN_ID"
+echo "  - All User Profiles in domain: $DOMAIN_ID"
+echo "  - The Domain itself (HomeEfsFileSystem = Delete)"
+echo
+read -p "Type 'DELETE' to continue: " CONFIRM
+
+if [ "$CONFIRM" != "DELETE" ]; then
+  echo "Aborted by user."
+  exit 1
+fi
+
+# 2. Delete Spaces
+echo
+echo "=== Deleting Spaces for domain: $DOMAIN_ID ==="
+
+SPACES_JSON=$(aws sagemaker list-spaces --domain-id "$DOMAIN_ID")
+SPACE_NAMES=$(echo "$SPACES_JSON" | jq -r '.Spaces[].SpaceName // empty')
+
+if [ -z "$SPACE_NAMES" ]; then
+  echo "No spaces found."
+else
+  echo "$SPACE_NAMES" | while read -r SPACE_NAME; do
+    if [ -n "$SPACE_NAME" ]; then
+      echo "Deleting space: $SPACE_NAME"
+      aws sagemaker delete-space \
+        --domain-id "$DOMAIN_ID" \
+        --space-name "$SPACE_NAME"
+    fi
+  done
+fi
+
+# 3. Delete User Profiles
+echo
+echo "=== Deleting User Profiles for domain: $DOMAIN_ID ==="
+
+UPS_JSON=$(aws sagemaker list-user-profiles --domain-id "$DOMAIN_ID")
+UP_NAMES=$(echo "$UPS_JSON" | jq -r '.UserProfiles[].UserProfileName // empty')
+
+if [ -z "$UP_NAMES" ]; then
+  echo "No user profiles found."
+else
+  echo "$UP_NAMES" | while read -r UP_NAME; do
+    if [ -n "$UP_NAME" ]; then
+      echo "Deleting user profile: $UP_NAME"
+      aws sagemaker delete-user-profile \
+        --domain-id "$DOMAIN_ID" \
+        --user-profile-name "$UP_NAME"
+    fi
+  done
+fi
+
+# 4. Delete the Domain (with correct retention-policy JSON)
+echo
+echo "=== Deleting Domain: $DOMAIN_ID ==="
+echo "Using retention-policy: {\"HomeEfsFileSystem\": \"Delete\"}"
+
+aws sagemaker delete-domain \
+  --domain-id "$DOMAIN_ID" \
+  --retention-policy "{\"HomeEfsFileSystem\": \"Delete\"}"
+
+echo
+echo "=== Cleanup complete. Domain $DOMAIN_ID has been deleted. ==="
+```
+
+---
+
+### How to use this in the lab
+
+1. Save as a file, e.g.: `cleanup_sagemaker_domain.sh`
+2. Make it executable:
+
+```bash
+chmod +x cleanup_sagemaker_domain.sh
+```
+
+3. Run one of:
+
+```bash
+# Let it auto-detect the first (and usually only) domain
+./cleanup_sagemaker_domain.sh
+
+# OR pass a specific DomainId
+./cleanup_sagemaker_domain.sh d-xxxxxxxxxxxx
+```
+
+The script:
+
+* Deletes **all Spaces** in the domain
+* Deletes **all User Profiles** in the domain
+* Deletes the **Domain** itself with
+  `--retention-policy "{\"HomeEfsFileSystem\": \"Delete\"}"`
+  (this avoids the `Expected: '=', received: 'EOF' for input: Delete` error and fully cleans up the EFS home storage).
 
