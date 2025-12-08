@@ -1,0 +1,22 @@
+Sample Dataset: Below is a small sample of the credit card transaction dataset for fraud detection. Save this as sample_credit_card_fraud.csv and upload it to your S3 bucket
+TransactionID,Amount,Time,Location,MerchantCategory,IsFraud
+100001,120.50,13:45,New York,Electronics,0
+100002,8.99,09:20,San Francisco,Coffee Shop,0
+100003,560.00,02:10,Las Vegas,Jewelry,1
+100004,43.25,17:50,Chicago,Grocery,0
+100005,3200.00,03:30,Los Angeles,Luxury Goods,1
+100006,15.00,11:05,Boston,Books,0
+100007,850.75,01:45,Miami,Electronics,1
+100008,25.00,14:30,Seattle,Clothing,0
+100009,199.99,22:15,New York,Furniture,0
+100010,999.00,04:00,Houston,Travel,1
+
+This dataset includes:
+•	TransactionID: Unique identifier for each transaction
+•	Amount: The dollar amount of the transaction
+•	Time: Time of transaction
+•	Location: City where the transaction took place
+•	MerchantCategory: Type of merchant
+•	IsFraud: Target variable (1 for fraud, 0 for legitimate)
+
+For better results, it is recommended to generate 1,000 synthetic records that closely resemble the sample dataset. You can upload this to your S3 bucket and use it in your SageMaker notebook for classification modeling.

@@ -1,0 +1,1001 @@
+TransactionID,Amount,Time,Location,MerchantCategory,IsFraud
+100001,39.49,07:54,Miami,Furniture,0
+100002,66.49,23:16,Boston,Jewelry,0
+100003,153.94,11:27,Los Angeles,Grocery,0
+100004,43.11,08:01,Chicago,Luxury Goods,0
+100005,10.43,09:56,Los Angeles,Books,0
+100006,5.43,05:33,Miami,Coffee Shop,0
+100007,32.83,08:27,Dallas,Coffee Shop,0
+100008,71.5,16:57,Miami,Electronics,0
+100009,10.23,17:08,Atlanta,Clothing,0
+100010,145.98,14:57,Chicago,Online Services,0
+100011,14.08,15:05,Denver,Electronics,0
+100012,13.82,16:43,Houston,Grocery,0
+100013,46.6,09:46,Atlanta,Travel,0
+100014,10.4,20:39,Seattle,Grocery,0
+100015,184.92,10:21,Atlanta,Luxury Goods,0
+100016,15.39,22:08,Atlanta,Coffee Shop,0
+100017,34.65,11:04,New York,Jewelry,0
+100018,5.44,04:31,Denver,Luxury Goods,0
+100019,27.23,18:47,San Francisco,Jewelry,0
+100020,86.72,21:14,Chicago,Jewelry,0
+100021,81.13,15:59,Miami,Travel,0
+100022,78.58,09:04,Dallas,Electronics,0
+100023,16.65,01:57,Chicago,Grocery,0
+100024,73.06,00:31,Miami,Furniture,0
+100025,26.61,15:36,Denver,Books,0
+100026,21.05,03:23,Seattle,Coffee Shop,0
+100027,3.69,00:12,Boston,Online Services,0
+100028,38.62,19:03,Miami,Coffee Shop,0
+100029,126.0,19:54,Atlanta,Luxury Goods,0
+100030,47.31,08:48,New York,Furniture,0
+100031,8.32,04:59,Houston,Clothing,0
+100032,17.13,09:07,Los Angeles,Clothing,0
+100033,29.62,19:25,San Francisco,Electronics,0
+100034,55.59,19:57,Houston,Travel,0
+100035,380.46,09:50,Las Vegas,Jewelry,0
+100036,21.52,17:47,Boston,Coffee Shop,0
+100037,29.9,13:09,Boston,Luxury Goods,0
+100038,88.68,11:43,New York,Furniture,0
+100039,81.84,10:07,New York,Travel,0
+100040,11.31,02:20,San Francisco,Clothing,0
+100041,66.17,01:37,Houston,Coffee Shop,0
+100042,106.78,05:45,Miami,Grocery,1
+100043,23.02,11:17,Miami,Jewelry,0
+100044,84.03,01:36,Los Angeles,Books,0
+100045,98.36,05:04,Atlanta,Luxury Goods,1
+100046,518.09,04:02,Miami,Books,1
+100047,13.92,12:12,San Francisco,Electronics,0
+100048,43.47,16:17,Denver,Books,0
+100049,39.85,20:50,Seattle,Clothing,0
+100050,71.13,01:45,Seattle,Online Services,0
+100051,39.29,20:30,Chicago,Luxury Goods,0
+100052,70.13,06:31,Chicago,Online Services,0
+100053,89.24,06:09,Atlanta,Jewelry,1
+100054,168.98,13:25,San Francisco,Coffee Shop,0
+100055,42.53,06:58,Denver,Books,0
+100056,6.35,11:37,Houston,Jewelry,0
+100057,33.16,13:11,Atlanta,Coffee Shop,0
+100058,9.41,22:35,Houston,Electronics,0
+100059,41.86,19:58,Miami,Clothing,0
+100060,2.5,20:50,Miami,Luxury Goods,0
+100061,17.46,07:06,Denver,Furniture,0
+100062,77.31,16:51,Chicago,Travel,0
+100063,10.21,15:18,Chicago,Books,0
+100064,11.13,02:44,Los Angeles,Electronics,0
+100065,175.21,12:45,San Francisco,Coffee Shop,0
+100066,136.64,11:24,Seattle,Luxury Goods,0
+100067,78.86,18:45,Boston,Furniture,0
+100068,17.26,07:14,Miami,Online Services,0
+100069,16.17,08:13,Denver,Clothing,0
+100070,10.51,18:30,Houston,Online Services,0
+100071,25.89,16:02,Miami,Furniture,0
+100072,42.49,18:06,Las Vegas,Coffee Shop,0
+100073,20.99,19:46,Atlanta,Coffee Shop,0
+100074,432.84,00:46,Atlanta,Travel,0
+100075,12.57,17:42,Atlanta,Clothing,0
+100076,13.38,17:18,Seattle,Coffee Shop,0
+100077,10.92,10:06,New York,Grocery,0
+100078,96.96,15:56,Denver,Travel,0
+100079,20.57,19:11,Las Vegas,Grocery,0
+100080,61.66,17:24,Seattle,Books,0
+100081,45.79,08:13,New York,Furniture,0
+100082,27.16,18:12,Los Angeles,Books,0
+100083,35.62,19:18,Dallas,Jewelry,0
+100084,31.29,00:09,Denver,Jewelry,0
+100085,50.33,13:35,New York,Jewelry,0
+100086,7.8,02:31,Las Vegas,Jewelry,0
+100087,34.04,21:15,Atlanta,Online Services,0
+100088,160.82,02:49,Boston,Books,0
+100089,10.21,13:48,Dallas,Coffee Shop,0
+100090,62.88,16:28,New York,Books,0
+100091,70.37,16:49,Los Angeles,Jewelry,1
+100092,195.56,07:42,Las Vegas,Travel,1
+100093,34.49,07:36,Denver,Furniture,0
+100094,8.69,18:23,San Francisco,Luxury Goods,0
+100095,43.95,19:41,Boston,Jewelry,0
+100096,152.51,19:14,Dallas,Coffee Shop,0
+100097,42.99,22:44,Chicago,Luxury Goods,0
+100098,38.05,03:16,Dallas,Jewelry,0
+100099,9.33,22:04,Seattle,Luxury Goods,0
+100100,5.02,05:12,Chicago,Grocery,0
+100101,22.92,00:41,New York,Furniture,0
+100102,118.03,19:57,Chicago,Books,0
+100103,22.1,07:02,Los Angeles,Furniture,0
+100104,31.27,07:43,San Francisco,Electronics,0
+100105,28.54,17:24,Denver,Coffee Shop,0
+100106,18.73,06:34,Chicago,Grocery,0
+100107,94.52,15:30,Los Angeles,Furniture,0
+100108,12.06,06:19,Denver,Online Services,0
+100109,8.02,14:10,Dallas,Coffee Shop,0
+100110,28.03,15:19,Los Angeles,Electronics,0
+100111,128.88,02:25,Houston,Travel,0
+100112,30.58,00:47,Chicago,Travel,0
+100113,67.25,09:20,San Francisco,Coffee Shop,0
+100114,17.76,18:40,Miami,Clothing,0
+100115,36.6,18:30,Los Angeles,Online Services,0
+100116,17.92,14:34,Houston,Travel,0
+100117,12.38,13:32,Houston,Online Services,0
+100118,29.68,05:08,Denver,Books,0
+100119,11.75,01:46,Seattle,Furniture,0
+100120,48.76,20:03,Denver,Clothing,0
+100121,9.79,03:47,Las Vegas,Travel,0
+100122,83.74,01:34,Seattle,Grocery,0
+100123,36.85,17:08,Houston,Luxury Goods,0
+100124,33.52,03:27,Los Angeles,Online Services,0
+100125,16.52,11:28,Las Vegas,Grocery,0
+100126,11.52,10:22,Chicago,Books,0
+100127,55.6,03:58,Chicago,Jewelry,0
+100128,8.86,00:12,Los Angeles,Coffee Shop,0
+100129,36.58,15:12,Dallas,Clothing,0
+100130,38.05,22:55,San Francisco,Travel,0
+100131,107.33,05:30,Los Angeles,Luxury Goods,0
+100132,18.1,06:08,Las Vegas,Coffee Shop,0
+100133,22.21,09:13,Houston,Coffee Shop,0
+100134,15.8,21:52,New York,Grocery,0
+100135,39.66,04:47,Denver,Clothing,0
+100136,15.98,06:55,Miami,Online Services,0
+100137,36.4,11:23,New York,Coffee Shop,0
+100138,25.78,00:31,Chicago,Electronics,0
+100139,117.42,07:51,Houston,Coffee Shop,0
+100140,17.15,12:22,Las Vegas,Luxury Goods,0
+100141,6.63,01:10,Boston,Grocery,0
+100142,9.32,04:45,Chicago,Travel,0
+100143,34.09,00:21,Chicago,Furniture,0
+100144,11.39,11:20,Seattle,Travel,0
+100145,45.67,00:57,Seattle,Furniture,0
+100146,11.42,18:17,Miami,Luxury Goods,0
+100147,80.87,13:50,Atlanta,Travel,0
+100148,80.62,11:57,Las Vegas,Books,0
+100149,6.63,21:18,Dallas,Coffee Shop,0
+100150,98.52,15:53,Atlanta,Travel,0
+100151,30.63,16:19,Boston,Clothing,0
+100152,14.38,20:21,Los Angeles,Jewelry,0
+100153,21.78,20:46,Los Angeles,Travel,0
+100154,41.03,00:22,Los Angeles,Coffee Shop,1
+100155,76.22,06:18,Dallas,Travel,0
+100156,68.55,04:18,Boston,Clothing,0
+100157,147.67,11:03,Houston,Furniture,0
+100158,36.29,05:36,Las Vegas,Books,0
+100159,42.69,21:03,Miami,Clothing,0
+100160,44.58,17:58,Boston,Online Services,0
+100161,24.8,18:58,Denver,Online Services,0
+100162,137.83,02:06,Boston,Clothing,0
+100163,51.22,15:17,Atlanta,Coffee Shop,0
+100164,10.23,03:43,Boston,Clothing,0
+100165,22.02,18:05,Atlanta,Travel,0
+100166,8.95,00:12,San Francisco,Jewelry,0
+100167,62.0,12:10,San Francisco,Jewelry,0
+100168,13.66,22:32,Seattle,Online Services,0
+100169,145.62,12:44,Chicago,Jewelry,0
+100170,24.74,19:36,Miami,Luxury Goods,0
+100171,44.11,23:17,Boston,Electronics,0
+100172,88.83,15:43,Atlanta,Books,0
+100173,33.33,03:02,Los Angeles,Clothing,0
+100174,242.06,17:36,San Francisco,Clothing,0
+100175,8.52,02:31,Dallas,Clothing,0
+100176,5.87,12:36,Houston,Clothing,0
+100177,37.44,18:30,San Francisco,Books,0
+100178,45.66,09:40,Chicago,Online Services,0
+100179,134.02,05:13,Houston,Clothing,0
+100180,77.53,18:51,Denver,Coffee Shop,0
+100181,23.07,10:33,Chicago,Grocery,1
+100182,106.7,02:03,San Francisco,Jewelry,0
+100183,8.44,00:45,Los Angeles,Online Services,0
+100184,8.24,02:13,Atlanta,Luxury Goods,0
+100185,52.32,17:50,Boston,Electronics,0
+100186,71.88,00:36,New York,Luxury Goods,0
+100187,7.34,00:05,Dallas,Online Services,1
+100188,75.36,15:08,Denver,Travel,0
+100189,20.76,04:01,Miami,Furniture,0
+100190,7.01,05:57,Los Angeles,Electronics,0
+100191,60.89,15:09,Houston,Grocery,0
+100192,24.7,20:17,New York,Grocery,0
+100193,57.6,15:43,Boston,Clothing,0
+100194,78.28,20:21,Denver,Travel,0
+100195,12.35,23:50,Seattle,Clothing,0
+100196,50.22,03:28,New York,Jewelry,0
+100197,70.09,16:09,Atlanta,Online Services,0
+100198,21.05,10:09,Boston,Grocery,0
+100199,13.31,00:37,Dallas,Travel,0
+100200,4.63,01:12,Atlanta,Jewelry,0
+100201,19.3,22:08,Seattle,Grocery,0
+100202,38.52,22:24,Atlanta,Books,0
+100203,356.26,06:07,Seattle,Books,0
+100204,572.5,01:51,New York,Coffee Shop,0
+100205,48.83,22:29,Boston,Luxury Goods,0
+100206,27.32,16:58,Denver,Furniture,0
+100207,59.19,09:36,Boston,Luxury Goods,0
+100208,43.49,18:37,Los Angeles,Travel,0
+100209,25.72,01:33,Seattle,Coffee Shop,0
+100210,40.64,03:57,Chicago,Furniture,1
+100211,51.42,21:51,New York,Books,0
+100212,33.01,00:09,Denver,Jewelry,0
+100213,172.18,18:44,New York,Electronics,0
+100214,29.34,06:48,Houston,Coffee Shop,0
+100215,45.59,12:12,New York,Clothing,0
+100216,174.33,13:13,Seattle,Luxury Goods,0
+100217,71.36,14:36,Boston,Luxury Goods,0
+100218,268.22,17:53,Denver,Books,0
+100219,100.99,02:01,New York,Electronics,0
+100220,178.24,10:53,Denver,Coffee Shop,0
+100221,25.83,15:51,Los Angeles,Travel,0
+100222,22.19,17:28,Atlanta,Online Services,0
+100223,216.66,11:12,Las Vegas,Books,0
+100224,21.56,02:48,Chicago,Luxury Goods,1
+100225,91.21,16:47,Chicago,Furniture,0
+100226,15.65,18:12,Dallas,Online Services,0
+100227,38.56,12:56,Atlanta,Electronics,0
+100228,63.67,00:59,Dallas,Clothing,0
+100229,31.78,09:59,Los Angeles,Furniture,0
+100230,5.85,05:21,Dallas,Electronics,0
+100231,17.02,23:31,Los Angeles,Luxury Goods,0
+100232,31.21,15:07,Seattle,Jewelry,0
+100233,11.06,14:52,Houston,Travel,0
+100234,8.48,15:44,Atlanta,Jewelry,0
+100235,39.0,08:31,Atlanta,Jewelry,0
+100236,8.75,22:02,Chicago,Books,0
+100237,70.96,06:13,Las Vegas,Furniture,0
+100238,49.84,02:06,Boston,Clothing,0
+100239,57.82,13:10,Atlanta,Books,0
+100240,173.21,07:54,Chicago,Furniture,0
+100241,21.71,00:36,Boston,Luxury Goods,0
+100242,15.41,03:16,Boston,Travel,1
+100243,27.88,08:14,Dallas,Clothing,0
+100244,38.69,14:06,Houston,Clothing,0
+100245,46.03,07:21,Boston,Grocery,0
+100246,32.41,04:14,Dallas,Coffee Shop,0
+100247,65.58,16:12,Boston,Coffee Shop,0
+100248,11.22,11:54,Los Angeles,Clothing,1
+100249,182.8,20:58,Atlanta,Grocery,0
+100250,48.63,23:16,Miami,Clothing,0
+100251,137.72,15:07,Denver,Coffee Shop,0
+100252,46.12,08:10,San Francisco,Books,0
+100253,32.82,08:45,Atlanta,Furniture,0
+100254,11.7,20:24,Dallas,Furniture,0
+100255,37.06,04:44,Dallas,Jewelry,0
+100256,9.55,06:20,San Francisco,Online Services,0
+100257,14.8,14:13,Dallas,Jewelry,0
+100258,4.14,08:06,Chicago,Travel,0
+100259,8.14,00:26,Chicago,Furniture,0
+100260,5.62,06:52,San Francisco,Online Services,0
+100261,30.59,06:22,Miami,Luxury Goods,0
+100262,7.17,01:57,Dallas,Grocery,0
+100263,35.49,01:50,Los Angeles,Coffee Shop,0
+100264,27.21,23:57,Atlanta,Furniture,0
+100265,3.95,09:35,Dallas,Clothing,0
+100266,51.36,22:35,Boston,Books,0
+100267,6.4,02:56,Las Vegas,Clothing,0
+100268,62.55,09:28,Miami,Travel,0
+100269,29.84,14:42,Miami,Furniture,1
+100270,25.65,17:44,San Francisco,Travel,0
+100271,54.27,07:09,Los Angeles,Grocery,0
+100272,18.31,06:06,Miami,Travel,0
+100273,11.05,14:44,Los Angeles,Electronics,0
+100274,59.32,08:46,Los Angeles,Books,1
+100275,28.3,22:04,Boston,Coffee Shop,0
+100276,146.61,10:15,Houston,Books,0
+100277,98.5,23:12,Atlanta,Online Services,0
+100278,229.28,12:25,Miami,Furniture,0
+100279,14.38,16:29,New York,Books,0
+100280,10.12,15:09,Atlanta,Furniture,0
+100281,14.3,06:16,New York,Coffee Shop,0
+100282,57.94,08:48,Houston,Electronics,0
+100283,34.39,15:53,Dallas,Coffee Shop,0
+100284,5.7,23:01,Chicago,Clothing,0
+100285,20.8,01:50,Dallas,Coffee Shop,0
+100286,4.43,21:44,Houston,Electronics,0
+100287,49.86,18:07,New York,Coffee Shop,1
+100288,14.48,20:38,Atlanta,Furniture,0
+100289,113.94,03:02,New York,Clothing,0
+100290,6.58,18:40,Atlanta,Clothing,0
+100291,19.53,15:45,New York,Grocery,0
+100292,163.69,23:59,Houston,Electronics,0
+100293,27.09,15:55,Boston,Furniture,0
+100294,86.52,23:59,Seattle,Clothing,0
+100295,15.33,22:45,Chicago,Electronics,0
+100296,14.57,14:51,Houston,Furniture,0
+100297,46.87,09:24,Las Vegas,Luxury Goods,0
+100298,60.1,10:29,Dallas,Books,1
+100299,5.84,00:44,Miami,Grocery,1
+100300,30.35,07:37,New York,Online Services,0
+100301,37.8,22:40,San Francisco,Electronics,0
+100302,15.79,12:21,Miami,Electronics,0
+100303,15.76,00:47,Denver,Electronics,0
+100304,98.02,04:24,New York,Online Services,0
+100305,18.99,09:57,Chicago,Travel,0
+100306,35.03,16:30,Seattle,Books,0
+100307,55.85,08:08,Houston,Travel,0
+100308,78.2,00:18,Houston,Electronics,0
+100309,44.95,22:37,San Francisco,Books,0
+100310,10.45,15:24,Miami,Furniture,0
+100311,42.88,06:09,Atlanta,Travel,0
+100312,114.44,23:52,Boston,Jewelry,0
+100313,29.66,18:26,Seattle,Grocery,0
+100314,17.22,03:56,Miami,Books,0
+100315,74.84,11:28,Miami,Clothing,0
+100316,70.65,03:34,San Francisco,Luxury Goods,0
+100317,36.72,16:36,Boston,Coffee Shop,0
+100318,34.33,15:40,Las Vegas,Grocery,0
+100319,26.74,00:16,Dallas,Clothing,0
+100320,64.37,18:48,Las Vegas,Jewelry,0
+100321,10.46,01:35,Dallas,Grocery,0
+100322,183.77,23:45,Las Vegas,Jewelry,0
+100323,59.54,07:21,Houston,Electronics,0
+100324,40.97,13:53,New York,Clothing,0
+100325,63.5,17:31,New York,Electronics,0
+100326,46.39,19:37,Houston,Books,0
+100327,34.69,13:05,Los Angeles,Coffee Shop,0
+100328,65.52,06:23,Dallas,Jewelry,0
+100329,67.33,09:05,San Francisco,Jewelry,0
+100330,25.53,13:15,Denver,Luxury Goods,0
+100331,10.32,23:48,Miami,Grocery,0
+100332,36.69,01:01,San Francisco,Clothing,0
+100333,52.89,08:15,Houston,Books,0
+100334,107.07,23:35,Chicago,Electronics,0
+100335,12.8,10:31,Houston,Electronics,0
+100336,143.18,09:23,Las Vegas,Luxury Goods,0
+100337,40.9,05:15,Los Angeles,Online Services,0
+100338,17.69,13:16,Seattle,Grocery,0
+100339,4.61,08:15,Miami,Travel,0
+100340,46.13,17:11,New York,Online Services,0
+100341,23.64,13:29,Los Angeles,Jewelry,0
+100342,331.2,21:01,Las Vegas,Luxury Goods,0
+100343,56.03,18:13,San Francisco,Books,0
+100344,8.65,00:34,Seattle,Electronics,1
+100345,57.66,09:23,New York,Online Services,0
+100346,154.37,07:23,Boston,Clothing,0
+100347,346.54,06:22,San Francisco,Grocery,0
+100348,69.75,16:41,Atlanta,Grocery,0
+100349,33.13,06:18,New York,Jewelry,0
+100350,36.02,09:52,Dallas,Coffee Shop,0
+100351,34.72,19:51,Seattle,Luxury Goods,0
+100352,20.01,05:54,Miami,Clothing,0
+100353,66.9,13:22,Dallas,Travel,0
+100354,28.8,16:13,Dallas,Furniture,0
+100355,21.61,13:22,Houston,Luxury Goods,0
+100356,7.33,11:11,Seattle,Luxury Goods,0
+100357,8.61,11:58,Miami,Coffee Shop,0
+100358,14.8,00:59,New York,Travel,0
+100359,15.2,19:13,Los Angeles,Luxury Goods,0
+100360,20.86,01:57,Denver,Grocery,0
+100361,22.68,23:33,Dallas,Clothing,0
+100362,80.56,16:52,Los Angeles,Jewelry,0
+100363,215.73,13:01,San Francisco,Coffee Shop,0
+100364,68.86,12:10,Dallas,Luxury Goods,0
+100365,6.97,03:57,Las Vegas,Grocery,0
+100366,4.07,12:50,Chicago,Coffee Shop,0
+100367,34.63,13:20,Seattle,Jewelry,0
+100368,3.07,04:57,Denver,Grocery,0
+100369,16.11,00:29,San Francisco,Clothing,0
+100370,45.65,00:41,Boston,Clothing,0
+100371,75.8,23:59,Boston,Electronics,0
+100372,9.88,15:25,Chicago,Grocery,0
+100373,14.82,03:06,Chicago,Travel,0
+100374,70.08,14:26,Dallas,Books,0
+100375,91.47,10:35,Las Vegas,Clothing,1
+100376,105.97,15:24,Miami,Travel,0
+100377,45.45,12:05,Dallas,Travel,0
+100378,15.36,22:07,New York,Furniture,0
+100379,17.35,23:56,San Francisco,Grocery,0
+100380,46.42,19:09,New York,Travel,0
+100381,14.13,14:50,Denver,Luxury Goods,0
+100382,28.21,13:11,Las Vegas,Furniture,0
+100383,104.06,11:43,Chicago,Travel,0
+100384,11.9,05:32,Houston,Books,0
+100385,79.7,13:57,Houston,Electronics,0
+100386,4.99,11:06,Chicago,Books,0
+100387,7.83,10:49,Las Vegas,Grocery,0
+100388,36.24,21:07,Atlanta,Books,0
+100389,70.56,23:25,Dallas,Travel,0
+100390,34.0,07:28,San Francisco,Coffee Shop,0
+100391,25.77,13:14,Boston,Electronics,0
+100392,274.69,06:13,Chicago,Furniture,0
+100393,24.35,01:38,San Francisco,Grocery,0
+100394,5.08,09:03,Los Angeles,Electronics,0
+100395,81.24,13:17,Los Angeles,Grocery,0
+100396,10.87,02:04,Seattle,Jewelry,0
+100397,23.56,16:04,Atlanta,Luxury Goods,0
+100398,4.87,12:29,Boston,Luxury Goods,0
+100399,56.14,16:16,Dallas,Grocery,0
+100400,42.85,14:26,Atlanta,Grocery,0
+100401,8.64,15:38,San Francisco,Clothing,0
+100402,14.9,03:26,Dallas,Luxury Goods,0
+100403,23.12,02:45,Chicago,Books,0
+100404,116.82,13:25,Denver,Coffee Shop,0
+100405,52.54,20:29,Miami,Coffee Shop,0
+100406,20.76,15:34,Seattle,Jewelry,0
+100407,17.87,09:04,Dallas,Online Services,0
+100408,12.43,04:31,Dallas,Books,0
+100409,63.44,12:10,Chicago,Electronics,0
+100410,12.93,10:36,San Francisco,Jewelry,0
+100411,10.32,21:19,Los Angeles,Jewelry,0
+100412,5.06,03:39,Chicago,Clothing,0
+100413,16.9,02:35,Dallas,Grocery,0
+100414,32.15,04:49,San Francisco,Luxury Goods,0
+100415,15.34,19:04,Boston,Jewelry,0
+100416,71.04,15:28,Miami,Online Services,0
+100417,42.05,18:35,New York,Travel,0
+100418,20.23,10:18,Denver,Grocery,0
+100419,52.43,07:36,Denver,Furniture,0
+100420,36.95,20:29,Las Vegas,Books,0
+100421,27.49,22:38,Chicago,Luxury Goods,0
+100422,4.96,20:57,Las Vegas,Coffee Shop,0
+100423,9.66,02:36,Chicago,Jewelry,0
+100424,262.1,04:35,Los Angeles,Luxury Goods,0
+100425,24.81,23:33,Seattle,Travel,0
+100426,35.78,07:09,Las Vegas,Luxury Goods,0
+100427,47.79,22:07,New York,Books,0
+100428,9.81,04:31,Los Angeles,Electronics,0
+100429,79.25,16:22,Denver,Books,0
+100430,41.99,10:11,Atlanta,Electronics,0
+100431,28.32,01:02,Las Vegas,Grocery,0
+100432,3.07,10:59,Houston,Luxury Goods,0
+100433,8.87,21:10,Dallas,Online Services,0
+100434,9.14,09:43,Denver,Luxury Goods,0
+100435,73.38,00:37,Seattle,Luxury Goods,0
+100436,19.23,15:49,Boston,Furniture,0
+100437,62.59,03:23,Atlanta,Jewelry,1
+100438,114.74,18:40,Chicago,Books,0
+100439,39.0,06:26,Chicago,Coffee Shop,0
+100440,47.56,12:36,San Francisco,Luxury Goods,0
+100441,18.46,01:55,Las Vegas,Books,0
+100442,28.08,21:12,Dallas,Clothing,0
+100443,26.29,05:16,New York,Luxury Goods,0
+100444,23.7,18:07,Las Vegas,Luxury Goods,0
+100445,33.38,11:14,Chicago,Furniture,0
+100446,8.68,08:13,Dallas,Electronics,0
+100447,43.46,20:25,Las Vegas,Electronics,0
+100448,87.37,21:06,Dallas,Grocery,0
+100449,42.48,07:23,Seattle,Furniture,0
+100450,15.35,04:09,Boston,Electronics,0
+100451,10.97,19:37,Seattle,Coffee Shop,0
+100452,70.25,15:09,Miami,Travel,0
+100453,28.08,04:00,Chicago,Furniture,0
+100454,22.32,23:42,Chicago,Grocery,0
+100455,9.32,18:40,Denver,Jewelry,0
+100456,136.54,16:06,Houston,Online Services,0
+100457,19.78,11:12,Miami,Travel,0
+100458,221.16,19:13,Los Angeles,Books,0
+100459,53.99,09:07,Houston,Jewelry,0
+100460,58.22,02:22,Atlanta,Travel,0
+100461,13.72,21:04,Atlanta,Luxury Goods,0
+100462,17.29,21:03,Las Vegas,Luxury Goods,0
+100463,71.47,00:49,Miami,Clothing,0
+100464,21.93,02:06,Los Angeles,Jewelry,0
+100465,42.91,22:17,Denver,Luxury Goods,0
+100466,31.44,19:33,Dallas,Clothing,0
+100467,36.41,12:49,Las Vegas,Jewelry,0
+100468,16.39,16:24,San Francisco,Electronics,0
+100469,208.43,18:50,Boston,Clothing,0
+100470,14.3,08:38,Seattle,Online Services,0
+100471,29.65,12:33,Houston,Books,0
+100472,28.06,09:05,San Francisco,Luxury Goods,0
+100473,28.47,02:38,Boston,Clothing,0
+100474,28.95,16:51,Atlanta,Online Services,0
+100475,156.87,22:35,Los Angeles,Travel,0
+100476,54.4,09:29,San Francisco,Coffee Shop,0
+100477,60.01,11:44,San Francisco,Travel,0
+100478,7.73,18:09,Chicago,Books,0
+100479,3.29,09:26,New York,Coffee Shop,0
+100480,5.6,11:59,Boston,Furniture,0
+100481,26.57,22:05,Denver,Clothing,0
+100482,19.91,13:18,Miami,Luxury Goods,0
+100483,28.64,22:39,Denver,Books,0
+100484,5.79,20:14,Las Vegas,Electronics,0
+100485,8.6,22:14,New York,Online Services,0
+100486,70.87,01:18,Boston,Jewelry,0
+100487,80.9,15:16,Dallas,Travel,0
+100488,14.0,10:52,Los Angeles,Travel,0
+100489,98.96,12:57,New York,Travel,0
+100490,34.36,02:09,Los Angeles,Coffee Shop,0
+100491,33.54,19:58,Chicago,Jewelry,0
+100492,13.14,18:08,Denver,Books,0
+100493,13.71,10:46,Seattle,Clothing,0
+100494,44.67,07:12,Los Angeles,Travel,0
+100495,21.1,00:36,Houston,Jewelry,0
+100496,28.13,03:22,Denver,Grocery,1
+100497,265.44,20:36,Houston,Electronics,0
+100498,40.74,13:57,Miami,Clothing,0
+100499,18.23,17:14,Seattle,Travel,0
+100500,119.87,12:53,Miami,Grocery,0
+100501,42.11,12:44,Las Vegas,Jewelry,0
+100502,23.68,10:58,Miami,Grocery,0
+100503,20.24,07:31,Dallas,Books,0
+100504,97.79,14:26,Denver,Jewelry,0
+100505,7.37,13:57,Boston,Jewelry,0
+100506,27.72,12:17,Denver,Books,0
+100507,255.7,10:46,Boston,Luxury Goods,0
+100508,86.96,22:14,Miami,Clothing,0
+100509,19.04,12:30,Atlanta,Books,0
+100510,121.51,07:06,Miami,Luxury Goods,0
+100511,78.07,20:18,Denver,Electronics,0
+100512,78.82,01:33,San Francisco,Clothing,0
+100513,55.9,02:07,Boston,Books,1
+100514,9.2,17:47,Denver,Travel,0
+100515,68.5,20:07,Houston,Travel,0
+100516,20.89,03:18,Boston,Electronics,0
+100517,35.43,21:36,Denver,Grocery,0
+100518,7.22,09:04,San Francisco,Furniture,0
+100519,16.98,13:27,Denver,Clothing,0
+100520,56.72,17:21,New York,Furniture,0
+100521,12.04,14:04,Las Vegas,Online Services,0
+100522,134.88,18:45,Houston,Luxury Goods,0
+100523,26.34,12:54,Dallas,Clothing,1
+100524,82.07,19:30,Dallas,Electronics,0
+100525,73.51,12:00,San Francisco,Books,0
+100526,49.03,08:34,Chicago,Online Services,0
+100527,24.3,08:11,Denver,Books,0
+100528,59.59,16:40,Las Vegas,Books,0
+100529,65.64,12:00,Los Angeles,Clothing,0
+100530,11.68,10:35,Miami,Furniture,0
+100531,16.75,11:00,Boston,Electronics,0
+100532,15.21,20:21,Denver,Clothing,0
+100533,26.4,19:56,San Francisco,Furniture,0
+100534,153.99,21:23,Houston,Luxury Goods,0
+100535,88.09,14:27,Houston,Luxury Goods,0
+100536,61.51,05:52,San Francisco,Coffee Shop,0
+100537,16.29,17:34,San Francisco,Clothing,0
+100538,60.45,14:16,Houston,Coffee Shop,0
+100539,68.33,22:33,Denver,Grocery,0
+100540,30.57,21:20,Boston,Furniture,0
+100541,31.63,19:34,San Francisco,Online Services,0
+100542,22.95,22:20,Denver,Luxury Goods,0
+100543,9.89,07:28,Seattle,Travel,0
+100544,41.11,08:58,San Francisco,Clothing,0
+100545,64.48,15:59,New York,Jewelry,0
+100546,40.14,19:04,Houston,Clothing,0
+100547,81.34,19:10,San Francisco,Books,0
+100548,31.3,22:04,Los Angeles,Travel,0
+100549,35.95,17:01,Seattle,Online Services,0
+100550,23.39,08:41,Houston,Books,0
+100551,51.93,15:21,Chicago,Luxury Goods,0
+100552,4.77,17:32,New York,Jewelry,0
+100553,47.9,19:54,Miami,Travel,0
+100554,22.57,13:35,Dallas,Coffee Shop,0
+100555,45.31,13:52,Las Vegas,Grocery,0
+100556,190.14,13:43,Houston,Online Services,0
+100557,71.39,05:58,Boston,Luxury Goods,0
+100558,33.95,04:57,Dallas,Furniture,0
+100559,56.49,15:04,Los Angeles,Online Services,0
+100560,11.74,13:01,New York,Luxury Goods,0
+100561,3.83,05:54,Las Vegas,Grocery,0
+100562,64.46,17:09,Dallas,Electronics,0
+100563,13.58,08:32,Boston,Jewelry,0
+100564,3.19,10:33,Los Angeles,Furniture,0
+100565,45.09,16:08,Seattle,Coffee Shop,0
+100566,15.25,01:31,Dallas,Online Services,0
+100567,123.88,14:05,Dallas,Travel,0
+100568,56.92,14:18,Seattle,Luxury Goods,0
+100569,254.19,02:27,Atlanta,Travel,0
+100570,44.23,07:29,Los Angeles,Luxury Goods,0
+100571,70.6,07:41,San Francisco,Electronics,0
+100572,2.8,19:22,San Francisco,Clothing,0
+100573,189.38,04:21,Chicago,Clothing,0
+100574,40.81,12:26,Seattle,Luxury Goods,0
+100575,109.89,07:41,Los Angeles,Grocery,0
+100576,57.84,01:37,Seattle,Electronics,0
+100577,12.6,20:07,Miami,Furniture,0
+100578,62.48,10:13,Las Vegas,Travel,0
+100579,157.35,12:43,Miami,Electronics,0
+100580,10.97,14:59,Las Vegas,Online Services,0
+100581,34.51,00:27,Dallas,Books,0
+100582,102.52,23:54,Las Vegas,Luxury Goods,0
+100583,13.11,05:23,Miami,Travel,1
+100584,20.4,19:11,Chicago,Jewelry,0
+100585,4.18,18:22,Las Vegas,Online Services,0
+100586,113.69,11:47,Las Vegas,Luxury Goods,0
+100587,10.24,07:43,Boston,Furniture,1
+100588,61.65,05:36,Chicago,Furniture,1
+100589,10.25,14:28,San Francisco,Electronics,0
+100590,21.4,10:31,Dallas,Furniture,0
+100591,29.16,06:03,Seattle,Jewelry,1
+100592,8.42,07:00,Miami,Online Services,0
+100593,46.19,21:30,Boston,Grocery,0
+100594,66.76,20:14,New York,Coffee Shop,0
+100595,68.11,03:04,Los Angeles,Travel,0
+100596,93.05,15:58,Seattle,Electronics,0
+100597,332.71,07:10,Miami,Electronics,0
+100598,14.76,10:04,Denver,Luxury Goods,0
+100599,52.73,19:40,New York,Books,0
+100600,10.11,22:22,Los Angeles,Jewelry,0
+100601,20.38,09:08,Denver,Furniture,0
+100602,5.13,14:41,Dallas,Grocery,0
+100603,53.98,09:55,Los Angeles,Online Services,0
+100604,59.46,18:10,Houston,Jewelry,0
+100605,8.25,08:58,New York,Online Services,0
+100606,122.05,08:47,Houston,Electronics,0
+100607,48.65,02:55,New York,Jewelry,0
+100608,132.15,12:31,Boston,Grocery,1
+100609,16.21,16:49,Miami,Luxury Goods,0
+100610,35.89,11:56,Las Vegas,Coffee Shop,0
+100611,12.07,14:56,Atlanta,Jewelry,0
+100612,60.15,10:53,Seattle,Coffee Shop,0
+100613,56.34,16:47,Boston,Clothing,1
+100614,95.93,06:11,Miami,Electronics,0
+100615,27.14,16:26,Boston,Travel,0
+100616,111.66,14:49,New York,Luxury Goods,0
+100617,20.24,10:54,Seattle,Books,0
+100618,20.46,19:15,Boston,Luxury Goods,0
+100619,184.41,05:03,Dallas,Luxury Goods,0
+100620,85.16,10:26,New York,Electronics,0
+100621,17.88,00:26,Los Angeles,Jewelry,0
+100622,27.43,16:12,Boston,Clothing,0
+100623,22.72,10:51,Dallas,Coffee Shop,0
+100624,137.44,05:20,Seattle,Jewelry,0
+100625,71.96,18:50,Atlanta,Books,0
+100626,15.11,08:43,Miami,Furniture,0
+100627,51.45,00:39,Los Angeles,Grocery,0
+100628,10.96,15:12,Chicago,Coffee Shop,0
+100629,23.1,01:17,New York,Travel,0
+100630,35.71,01:17,San Francisco,Electronics,0
+100631,54.58,06:41,Denver,Online Services,0
+100632,12.85,21:32,Denver,Jewelry,0
+100633,57.76,23:35,Los Angeles,Books,0
+100634,61.23,07:46,Boston,Books,0
+100635,20.16,19:12,Boston,Grocery,0
+100636,26.5,02:05,Boston,Coffee Shop,1
+100637,7.6,14:22,San Francisco,Books,0
+100638,60.23,13:46,Atlanta,Online Services,0
+100639,37.96,02:53,Chicago,Electronics,0
+100640,18.17,03:08,Seattle,Luxury Goods,0
+100641,42.94,16:22,New York,Books,0
+100642,133.1,22:11,Denver,Luxury Goods,0
+100643,58.96,22:00,Denver,Online Services,0
+100644,367.84,04:17,Seattle,Electronics,0
+100645,52.24,03:33,San Francisco,Luxury Goods,0
+100646,209.05,04:41,Chicago,Coffee Shop,0
+100647,264.75,10:41,Dallas,Online Services,0
+100648,42.57,14:34,Atlanta,Electronics,0
+100649,84.55,01:21,New York,Grocery,0
+100650,56.22,09:53,Denver,Electronics,0
+100651,14.84,03:18,Atlanta,Furniture,0
+100652,21.13,20:09,Miami,Luxury Goods,0
+100653,67.49,16:33,New York,Travel,0
+100654,55.78,07:44,Seattle,Books,0
+100655,16.42,01:41,Miami,Furniture,0
+100656,36.73,14:53,Las Vegas,Jewelry,0
+100657,121.69,01:37,Miami,Electronics,0
+100658,158.39,20:17,Dallas,Coffee Shop,0
+100659,17.94,01:27,Denver,Luxury Goods,1
+100660,52.84,07:05,Chicago,Travel,0
+100661,9.87,12:32,Seattle,Furniture,0
+100662,194.78,21:30,Atlanta,Luxury Goods,0
+100663,72.01,01:47,New York,Books,0
+100664,63.81,08:42,Denver,Coffee Shop,0
+100665,21.52,03:18,Seattle,Jewelry,0
+100666,42.36,11:47,Atlanta,Grocery,0
+100667,20.5,18:17,Atlanta,Books,0
+100668,12.01,15:39,Atlanta,Online Services,0
+100669,50.56,18:14,Dallas,Online Services,0
+100670,23.87,11:35,Dallas,Furniture,0
+100671,34.95,10:14,Houston,Furniture,0
+100672,8.89,02:22,Las Vegas,Luxury Goods,0
+100673,115.55,02:40,Los Angeles,Online Services,0
+100674,6.53,07:30,Chicago,Jewelry,0
+100675,88.39,00:01,Miami,Coffee Shop,0
+100676,22.03,05:26,Las Vegas,Coffee Shop,0
+100677,10.72,20:24,Miami,Online Services,0
+100678,14.01,17:15,Las Vegas,Books,0
+100679,27.05,20:28,San Francisco,Books,0
+100680,36.19,14:50,Las Vegas,Jewelry,0
+100681,21.64,05:06,Chicago,Jewelry,0
+100682,168.81,15:53,San Francisco,Clothing,0
+100683,92.5,19:23,Los Angeles,Jewelry,0
+100684,34.75,08:46,Los Angeles,Books,0
+100685,30.58,14:35,Denver,Coffee Shop,0
+100686,35.51,16:05,New York,Online Services,0
+100687,53.68,13:35,Denver,Luxury Goods,0
+100688,56.04,16:54,Los Angeles,Electronics,0
+100689,77.67,12:14,Atlanta,Books,0
+100690,27.32,18:28,Las Vegas,Furniture,0
+100691,23.1,15:01,Las Vegas,Grocery,0
+100692,91.13,17:09,Chicago,Luxury Goods,0
+100693,6.57,21:57,Las Vegas,Luxury Goods,0
+100694,53.11,01:17,Las Vegas,Grocery,1
+100695,94.6,10:24,Los Angeles,Online Services,0
+100696,25.26,19:38,Miami,Travel,0
+100697,24.15,09:56,Miami,Grocery,0
+100698,4.24,12:13,Las Vegas,Online Services,1
+100699,6.15,19:43,Atlanta,Furniture,0
+100700,12.49,16:06,Chicago,Books,0
+100701,20.26,01:41,San Francisco,Grocery,0
+100702,9.14,04:28,Denver,Coffee Shop,1
+100703,70.4,17:47,Atlanta,Electronics,0
+100704,141.93,11:53,Los Angeles,Coffee Shop,0
+100705,122.36,14:06,Atlanta,Books,0
+100706,15.07,17:29,Houston,Luxury Goods,0
+100707,80.69,19:14,Los Angeles,Furniture,0
+100708,78.91,03:17,Las Vegas,Grocery,0
+100709,287.32,22:56,Chicago,Coffee Shop,0
+100710,73.41,13:08,Chicago,Clothing,0
+100711,79.4,09:28,Houston,Travel,0
+100712,14.47,21:41,Miami,Electronics,0
+100713,29.95,23:08,Las Vegas,Coffee Shop,0
+100714,66.6,22:00,Houston,Books,0
+100715,16.21,23:32,Chicago,Electronics,0
+100716,17.5,20:09,Atlanta,Jewelry,0
+100717,123.19,00:41,Las Vegas,Electronics,0
+100718,29.12,10:33,Atlanta,Grocery,0
+100719,41.44,15:57,Boston,Luxury Goods,0
+100720,26.61,05:52,San Francisco,Furniture,0
+100721,138.76,21:29,Atlanta,Electronics,0
+100722,9.78,18:51,Denver,Books,0
+100723,141.73,01:15,Las Vegas,Furniture,0
+100724,33.83,21:08,Houston,Clothing,0
+100725,19.42,18:52,Miami,Books,0
+100726,85.3,17:11,San Francisco,Luxury Goods,0
+100727,50.98,04:11,Dallas,Furniture,0
+100728,28.11,11:01,Houston,Furniture,0
+100729,5.22,02:58,Boston,Grocery,0
+100730,63.37,01:11,Las Vegas,Clothing,0
+100731,116.78,08:41,San Francisco,Luxury Goods,0
+100732,141.62,00:41,Denver,Clothing,0
+100733,34.79,14:08,New York,Coffee Shop,0
+100734,12.72,06:02,Houston,Furniture,0
+100735,87.19,20:23,Miami,Jewelry,0
+100736,42.79,05:59,New York,Online Services,0
+100737,6.09,10:14,Boston,Luxury Goods,0
+100738,22.69,17:05,Dallas,Electronics,0
+100739,15.75,21:55,Boston,Travel,0
+100740,19.61,14:09,Denver,Online Services,0
+100741,78.15,00:41,Houston,Online Services,0
+100742,119.59,12:05,Boston,Furniture,0
+100743,200.82,15:54,New York,Jewelry,0
+100744,18.29,14:45,Houston,Coffee Shop,0
+100745,60.79,06:35,Chicago,Luxury Goods,0
+100746,37.19,08:54,San Francisco,Coffee Shop,0
+100747,16.17,18:09,Atlanta,Travel,0
+100748,106.81,07:51,Los Angeles,Luxury Goods,0
+100749,18.73,01:59,Atlanta,Grocery,0
+100750,138.67,04:13,Miami,Luxury Goods,0
+100751,49.74,20:10,Las Vegas,Furniture,0
+100752,25.01,15:23,Seattle,Books,0
+100753,22.43,01:08,Las Vegas,Books,0
+100754,26.93,17:09,Miami,Grocery,1
+100755,36.45,02:15,Dallas,Clothing,1
+100756,27.11,06:51,Chicago,Coffee Shop,0
+100757,40.64,06:21,Seattle,Electronics,0
+100758,130.34,23:51,San Francisco,Clothing,0
+100759,51.01,09:54,Miami,Grocery,0
+100760,8.69,11:49,New York,Furniture,1
+100761,151.86,06:04,Dallas,Travel,0
+100762,117.31,16:13,Houston,Online Services,0
+100763,4.48,17:23,Las Vegas,Coffee Shop,0
+100764,14.65,03:56,Dallas,Furniture,0
+100765,5.04,14:38,Seattle,Coffee Shop,0
+100766,68.48,21:42,Chicago,Clothing,0
+100767,6.6,16:36,Atlanta,Books,0
+100768,14.99,09:30,Dallas,Clothing,0
+100769,322.68,04:34,Boston,Travel,1
+100770,11.04,17:37,Las Vegas,Furniture,0
+100771,22.47,04:34,Dallas,Grocery,0
+100772,254.58,22:40,Miami,Furniture,0
+100773,28.69,10:22,Chicago,Furniture,0
+100774,17.17,17:43,Miami,Grocery,0
+100775,140.72,18:49,New York,Coffee Shop,0
+100776,28.96,05:11,Miami,Grocery,0
+100777,49.12,20:48,Miami,Coffee Shop,0
+100778,40.43,07:54,Houston,Coffee Shop,0
+100779,38.01,00:38,Dallas,Luxury Goods,0
+100780,32.54,20:06,Las Vegas,Travel,0
+100781,19.77,23:38,Los Angeles,Books,0
+100782,35.66,01:12,New York,Grocery,0
+100783,25.33,22:31,Las Vegas,Jewelry,0
+100784,25.37,18:04,Chicago,Clothing,0
+100785,53.68,00:11,Seattle,Online Services,0
+100786,12.31,00:06,Los Angeles,Furniture,1
+100787,70.37,01:58,Chicago,Jewelry,0
+100788,86.27,15:05,Chicago,Coffee Shop,0
+100789,14.84,14:57,Dallas,Luxury Goods,0
+100790,23.99,08:27,New York,Grocery,0
+100791,52.93,13:27,Boston,Grocery,0
+100792,37.72,13:41,Las Vegas,Luxury Goods,0
+100793,147.15,14:10,New York,Furniture,0
+100794,21.62,14:07,Seattle,Books,0
+100795,45.95,13:57,Los Angeles,Clothing,0
+100796,41.51,21:15,Boston,Online Services,0
+100797,44.69,14:51,Houston,Online Services,0
+100798,104.13,23:24,Houston,Luxury Goods,0
+100799,12.87,11:19,Houston,Furniture,0
+100800,91.11,04:58,Las Vegas,Grocery,0
+100801,53.84,11:51,Denver,Online Services,0
+100802,48.66,18:55,Chicago,Online Services,0
+100803,8.21,01:52,New York,Coffee Shop,0
+100804,42.63,05:38,Atlanta,Furniture,0
+100805,84.08,03:22,Boston,Travel,0
+100806,65.7,00:15,Boston,Jewelry,0
+100807,34.36,19:58,Denver,Coffee Shop,0
+100808,45.47,14:44,Dallas,Online Services,0
+100809,18.0,07:59,Los Angeles,Books,0
+100810,84.98,14:57,Denver,Books,0
+100811,14.41,16:00,Houston,Jewelry,0
+100812,48.58,19:11,San Francisco,Books,1
+100813,47.3,09:46,Miami,Furniture,0
+100814,54.95,00:34,Las Vegas,Luxury Goods,0
+100815,136.56,00:07,San Francisco,Travel,0
+100816,10.29,20:40,Denver,Grocery,0
+100817,23.36,18:44,New York,Grocery,0
+100818,21.54,23:48,Boston,Luxury Goods,0
+100819,53.04,02:26,Denver,Luxury Goods,0
+100820,47.07,08:18,New York,Jewelry,0
+100821,15.16,20:23,Dallas,Furniture,0
+100822,4.85,22:58,Denver,Coffee Shop,1
+100823,111.63,10:23,Boston,Clothing,0
+100824,278.18,21:45,Chicago,Coffee Shop,0
+100825,51.96,04:11,Las Vegas,Furniture,1
+100826,52.82,08:04,Denver,Coffee Shop,0
+100827,114.59,18:41,Los Angeles,Grocery,0
+100828,5.79,04:20,Los Angeles,Clothing,0
+100829,55.86,05:40,Atlanta,Books,0
+100830,9.47,17:42,Los Angeles,Jewelry,0
+100831,6.16,07:33,New York,Clothing,0
+100832,18.54,05:10,Denver,Grocery,0
+100833,14.43,06:00,Boston,Books,0
+100834,89.88,19:22,Las Vegas,Online Services,0
+100835,24.25,01:33,Las Vegas,Grocery,1
+100836,77.99,06:20,Dallas,Books,0
+100837,23.56,14:32,Los Angeles,Luxury Goods,0
+100838,171.58,06:30,San Francisco,Books,0
+100839,87.0,13:20,Atlanta,Travel,0
+100840,75.87,02:20,Houston,Travel,1
+100841,0.94,15:53,Dallas,Electronics,0
+100842,11.5,23:12,Miami,Travel,0
+100843,91.72,08:18,Miami,Coffee Shop,0
+100844,3.83,00:10,Seattle,Books,0
+100845,90.07,05:12,Denver,Online Services,1
+100846,31.27,15:47,Denver,Furniture,1
+100847,43.92,09:22,San Francisco,Books,0
+100848,35.49,12:38,Las Vegas,Luxury Goods,0
+100849,47.82,06:11,Denver,Grocery,0
+100850,29.82,14:07,Dallas,Grocery,0
+100851,22.65,11:04,Seattle,Luxury Goods,0
+100852,20.26,18:20,Boston,Furniture,0
+100853,30.34,07:32,Boston,Electronics,0
+100854,102.49,14:00,Denver,Jewelry,0
+100855,93.52,17:59,Atlanta,Grocery,0
+100856,45.85,22:51,New York,Coffee Shop,0
+100857,78.99,22:37,Denver,Grocery,0
+100858,69.43,08:22,Miami,Electronics,0
+100859,42.09,13:26,Seattle,Jewelry,0
+100860,159.45,16:06,Miami,Luxury Goods,0
+100861,54.03,11:25,Las Vegas,Online Services,0
+100862,36.37,16:40,Miami,Books,0
+100863,6.35,05:00,Seattle,Luxury Goods,0
+100864,31.57,22:59,Seattle,Books,0
+100865,29.36,20:57,Los Angeles,Books,0
+100866,91.81,19:09,Las Vegas,Books,0
+100867,15.28,10:08,Los Angeles,Furniture,0
+100868,30.95,01:26,Denver,Coffee Shop,0
+100869,23.58,07:16,Seattle,Luxury Goods,0
+100870,28.37,13:25,Boston,Travel,0
+100871,74.28,18:36,Las Vegas,Online Services,1
+100872,5.61,22:47,Houston,Electronics,1
+100873,14.84,06:25,Seattle,Online Services,0
+100874,12.83,14:48,Denver,Coffee Shop,0
+100875,19.88,01:25,San Francisco,Clothing,0
+100876,139.99,14:43,Seattle,Luxury Goods,0
+100877,23.03,02:03,Miami,Grocery,0
+100878,68.72,22:09,Los Angeles,Luxury Goods,0
+100879,59.28,09:38,San Francisco,Furniture,0
+100880,66.3,20:09,Denver,Online Services,0
+100881,45.56,06:57,Denver,Books,0
+100882,121.01,20:07,Dallas,Coffee Shop,0
+100883,38.84,10:39,Seattle,Travel,0
+100884,24.14,00:45,Denver,Online Services,0
+100885,34.0,16:33,Las Vegas,Grocery,0
+100886,6.96,03:14,Atlanta,Grocery,0
+100887,16.08,17:28,Los Angeles,Online Services,0
+100888,201.35,16:37,New York,Furniture,0
+100889,31.25,19:40,Las Vegas,Grocery,0
+100890,34.26,19:41,New York,Furniture,0
+100891,72.7,21:58,Las Vegas,Books,0
+100892,21.4,21:18,Atlanta,Grocery,0
+100893,32.17,13:00,Miami,Travel,0
+100894,180.34,06:51,Las Vegas,Jewelry,0
+100895,5.9,04:50,San Francisco,Clothing,0
+100896,42.33,16:16,Las Vegas,Grocery,0
+100897,6.14,23:27,Miami,Furniture,1
+100898,17.91,04:26,Denver,Electronics,0
+100899,18.27,14:12,Seattle,Online Services,0
+100900,34.34,18:34,Las Vegas,Furniture,0
+100901,107.83,16:52,Atlanta,Electronics,0
+100902,4.58,07:56,Denver,Electronics,0
+100903,19.1,07:28,Boston,Books,0
+100904,41.84,11:54,Denver,Furniture,0
+100905,87.48,11:41,Los Angeles,Jewelry,0
+100906,9.95,14:12,Denver,Clothing,0
+100907,9.33,09:03,Denver,Books,0
+100908,31.71,19:09,Los Angeles,Luxury Goods,0
+100909,15.31,15:59,Miami,Online Services,0
+100910,95.31,04:53,San Francisco,Grocery,0
+100911,206.81,13:17,Dallas,Coffee Shop,0
+100912,188.79,17:27,Dallas,Travel,0
+100913,35.44,18:52,San Francisco,Online Services,0
+100914,15.84,21:20,Boston,Coffee Shop,0
+100915,162.76,02:11,Denver,Jewelry,1
+100916,26.26,06:10,New York,Clothing,0
+100917,183.48,01:32,Dallas,Electronics,0
+100918,324.1,23:33,San Francisco,Grocery,0
+100919,78.1,15:33,Chicago,Clothing,0
+100920,25.27,20:19,Atlanta,Furniture,0
+100921,73.34,09:54,Dallas,Online Services,0
+100922,74.79,00:43,Chicago,Grocery,0
+100923,40.3,01:34,Miami,Clothing,0
+100924,15.98,07:46,Miami,Online Services,0
+100925,36.82,02:55,Miami,Luxury Goods,1
+100926,14.18,17:16,Denver,Furniture,0
+100927,50.62,17:13,Los Angeles,Luxury Goods,0
+100928,202.39,02:01,San Francisco,Electronics,0
+100929,44.31,21:18,Dallas,Grocery,0
+100930,127.16,03:11,Las Vegas,Books,0
+100931,26.12,10:19,Atlanta,Luxury Goods,0
+100932,39.44,04:59,Dallas,Travel,0
+100933,43.66,00:42,Los Angeles,Travel,1
+100934,10.29,19:58,Houston,Online Services,0
+100935,68.25,10:52,Denver,Furniture,0
+100936,22.9,03:54,San Francisco,Books,0
+100937,78.11,13:29,Los Angeles,Books,1
+100938,4.72,01:00,Dallas,Travel,1
+100939,7.3,10:16,Atlanta,Furniture,0
+100940,209.37,00:33,Dallas,Online Services,1
+100941,24.9,23:36,Las Vegas,Coffee Shop,0
+100942,46.32,02:45,New York,Luxury Goods,0
+100943,61.88,08:02,Chicago,Grocery,0
+100944,9.04,16:34,Houston,Clothing,0
+100945,57.46,14:04,Las Vegas,Clothing,0
+100946,143.39,05:20,Dallas,Online Services,0
+100947,126.68,02:14,New York,Online Services,0
+100948,20.55,15:08,Miami,Clothing,1
+100949,33.2,08:11,Denver,Luxury Goods,0
+100950,53.6,00:54,San Francisco,Furniture,0
+100951,21.33,19:44,Houston,Books,0
+100952,231.88,21:35,Denver,Electronics,0
+100953,13.92,08:37,Atlanta,Travel,0
+100954,40.88,21:48,Dallas,Grocery,0
+100955,50.57,20:41,Las Vegas,Travel,0
+100956,26.72,03:48,Las Vegas,Books,0
+100957,17.59,03:14,Las Vegas,Electronics,0
+100958,207.28,08:05,Denver,Luxury Goods,0
+100959,111.94,13:34,New York,Coffee Shop,0
+100960,26.53,15:56,San Francisco,Clothing,0
+100961,13.28,10:07,New York,Electronics,1
+100962,122.82,01:38,Atlanta,Clothing,0
+100963,16.08,03:54,Los Angeles,Clothing,0
+100964,23.02,22:24,Houston,Furniture,0
+100965,168.8,03:39,New York,Luxury Goods,0
+100966,12.46,12:39,Atlanta,Travel,0
+100967,97.76,01:44,Dallas,Luxury Goods,1
+100968,4.97,13:58,Boston,Coffee Shop,0
+100969,4.55,09:30,Los Angeles,Online Services,0
+100970,4.86,16:39,Boston,Grocery,0
+100971,22.91,12:48,New York,Books,0
+100972,6.94,17:40,Houston,Books,0
+100973,126.79,21:07,Seattle,Online Services,0
+100974,27.91,02:35,Las Vegas,Jewelry,0
+100975,182.49,09:26,Atlanta,Books,0
+100976,143.86,22:39,Miami,Coffee Shop,0
+100977,63.64,15:36,Seattle,Clothing,0
+100978,8.46,00:16,San Francisco,Grocery,0
+100979,30.15,23:50,Boston,Furniture,0
+100980,5.37,19:26,Miami,Electronics,0
+100981,85.67,12:11,Denver,Grocery,1
+100982,7.74,05:25,Las Vegas,Travel,0
+100983,27.54,14:09,Boston,Jewelry,0
+100984,18.27,02:38,Boston,Books,1
+100985,131.43,10:30,Dallas,Coffee Shop,0
+100986,79.55,08:45,Boston,Clothing,0
+100987,14.79,20:42,Boston,Clothing,0
+100988,20.6,08:47,Las Vegas,Online Services,0
+100989,52.0,07:21,Los Angeles,Luxury Goods,0
+100990,46.77,03:08,Las Vegas,Grocery,0
+100991,8.75,19:42,San Francisco,Clothing,0
+100992,24.54,13:58,Boston,Books,0
+100993,8.63,05:16,Chicago,Electronics,0
+100994,24.42,12:07,Denver,Electronics,0
+100995,21.8,04:50,Las Vegas,Grocery,1
+100996,17.36,22:29,Miami,Electronics,0
+100997,39.82,02:44,Dallas,Jewelry,0
+100998,24.23,17:26,Los Angeles,Jewelry,0
+100999,80.4,17:22,Los Angeles,Books,0
+101000,7.77,17:37,Denver,Furniture,0
