@@ -8,6 +8,27 @@ https://youtu.be/mNU6f8-a9OA
 https://github.com/knodax-labs-demo/aws-data-and-ml-labs/tree/main/29-classification-fraud-detection
 ---
 
+Here is a polished **cost-warning Markdown block**, formatted cleanly and professionally for your lab/tutorial.
+
+---
+
+## ⚠️ Cost Warning
+
+> **Important:** Amazon SageMaker is **not a free service**.
+> You may incur charges for:
+>
+> * Creating a **SageMaker Domain**
+> * Launching a **User Profile** or **JupyterLab / Studio Space**
+> * Running underlying **compute instances** (CPU or GPU)
+> * **Persisted storage** associated with the domain
+> * Reading/writing **data stored in Amazon S3**
+
+SageMaker pricing is **usage-based**, and **even short sessions** can generate costs. Compute instances continue to incur charges **until they are stopped**, and storage costs apply as long as the domain and user resources exist.
+
+If you want to avoid charges, you can **read through the tutorial without running the steps** in your AWS account.
+
+---
+
 ## **Step 1: Launch SageMaker Studio Notebook**
 
 Follow these steps to start your lab environment:
