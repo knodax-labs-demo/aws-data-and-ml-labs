@@ -20,6 +20,28 @@ By the end of this lab, you will be able to:
 
 ---
 
+Here is a **clean, professional, lab-ready cost warning Markdown block** specifically tailored for your **Real-Time Fraud Detection with SageMaker, Lambda, and Postman** extension lab.
+
+---
+
+## ⚠️ Cost Warning
+
+> **Important:** This lab uses multiple AWS services that **are not free**, and each resource may generate charges while active.
+
+You may incur costs for:
+
+* **SageMaker Training Jobs** (XGBoost training in this lab).
+* **SageMaker Real-Time Endpoints** (billed *per hour* while deployed, even when idle).
+* **Lambda function invocations** and **Function URL** traffic.
+* **CloudWatch Logs** created by Lambda.
+* **S3 storage** for training data, validation data, and model artifacts.
+
+SageMaker endpoints and domain compute are the **most expensive components** and will continue to incur hourly charges **until explicitly deleted**.
+
+If you want to avoid charges, you may follow the tutorial conceptually without running the steps in your AWS account. If you do run the lab, remember to **delete the endpoint, Lambda function, and other created resources immediately after completing the exercise**.
+
+---
+
 ## Prerequisites
 
 You should have already completed the **Classification Model – Fraud Detection** lab and:
