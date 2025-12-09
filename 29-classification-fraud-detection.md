@@ -2,7 +2,7 @@
 
 ---
 🎥 YouTube Tutorial:
-
+https://youtu.be/mNU6f8-a9OA
 ---
 📁 Source Code and Data:
 https://github.com/knodax-labs-demo/aws-data-and-ml-labs/tree/main/29-classification-fraud-detection
