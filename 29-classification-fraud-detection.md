@@ -1,32 +1,29 @@
 # **Hands-on Lab: Classification – Fraud Detection**
 
+## ⚠️ Lab Disclaimer — Important Cost & Usage Notice
+
+> **Please Read Before Starting the Lab**
+
+The exercises in this chapter involve running AWS services such as **SageMaker**, **Lambda**, **EC2-backed compute**, **S3**, and other on-demand resources. These services are **not free**, and charges may accrue as soon as they are created—**even if they are idle**.
+
+To ensure a safe learning experience, please keep the following in mind:
+
+* **SageMaker Domains, Notebooks, and Real-Time Endpoints** incur **per-hour compute charges** until they are shut down or deleted.
+* **Training jobs**, **inference endpoints**, and **Lambda invocations** generate additional usage-based charges.
+* **S3 storage**, **CloudWatch Logs**, and **network traffic** may produce small but ongoing costs.
+* Any AWS resource left running will continue to be billed by AWS until it is **terminated**.
+* This lab is designed for hands-on learning, but you may also simply **read through the steps** without executing them to avoid charges.
+
+**Best Practice:**
+At the end of each lab, follow the **Cleanup** section carefully to delete all provisioned resources and prevent unnecessary charges.
+
 ---
+
 🎥 YouTube Tutorial:
 https://youtu.be/mNU6f8-a9OA
 ---
 📁 Source Code and Data:
 https://github.com/knodax-labs-demo/aws-data-and-ml-labs/tree/main/29-classification-fraud-detection
----
-
-Here is a polished **cost-warning Markdown block**, formatted cleanly and professionally for your lab/tutorial.
-
----
-
-## ⚠️ Cost Warning
-
-> **Important:** Amazon SageMaker is **not a free service**.
-> You may incur charges for:
->
-> * Creating a **SageMaker Domain**
-> * Launching a **User Profile** or **JupyterLab / Studio Space**
-> * Running underlying **compute instances** (CPU or GPU)
-> * **Persisted storage** associated with the domain
-> * Reading/writing **data stored in Amazon S3**
-
-SageMaker pricing is **usage-based**, and **even short sessions** can generate costs. Compute instances continue to incur charges **until they are stopped**, and storage costs apply as long as the domain and user resources exist.
-
-If you want to avoid charges, you can **read through the tutorial without running the steps** in your AWS account.
-
 ---
 
 ## **Step 1: Launch SageMaker Studio Notebook**
