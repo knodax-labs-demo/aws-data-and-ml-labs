@@ -11,6 +11,12 @@ This lab demonstrates how to build a **regression model** that forecasts product
 * Visualize predicted vs. actual values
 
 ---
+🎥 YouTube Tutorial:
+
+---
+📁 Source Code and Data:
+https://github.com/knodax-labs-demo/aws-data-and-ml-labs/tree/main/30-regression-demand-forecasting
+---
 
 # ## Step 1: Launch SageMaker Studio Notebook
 
