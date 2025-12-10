@@ -20,10 +20,6 @@ By the end of this lab, you will be able to:
 
 ---
 
-Here is a **clean, professional, lab-ready cost warning Markdown block** specifically tailored for your **Real-Time Fraud Detection with SageMaker, Lambda, and Postman** extension lab.
-
----
-
 ## ⚠️ Cost Warning
 
 > **Important:** This lab uses multiple AWS services that **are not free**, and each resource may generate charges while active.
