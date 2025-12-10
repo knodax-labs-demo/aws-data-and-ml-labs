@@ -45,7 +45,7 @@ Follow these steps to start your lab environment:
 
 ---
 
-# ## 🔥 KnoDAX Cost Warning
+# ## 🔥 Cost Warning
 
 > ⚠️ **AWS Cost Warning — Please Read Before Proceeding**
 > This lab uses SageMaker Studio notebook sessions and Amazon S3. These components may incur charges.
