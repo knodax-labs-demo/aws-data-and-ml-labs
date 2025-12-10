@@ -62,7 +62,7 @@ Follow these steps to start your lab environment:
 * Delete unnecessary **S3 objects**
 * Remove the **SageMaker Domain** after labs (if used only for practice)
 
-💡 **KnoDAX Tip:**
+💡 **Tip:**
 This lab runs entirely in the notebook environment—**no heavy compute jobs**, so cost remains minimal.
 
 ---
