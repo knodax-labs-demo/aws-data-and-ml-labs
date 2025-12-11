@@ -12,7 +12,7 @@ This lab demonstrates how to build a **regression model** that forecasts product
 
 ---
 🎥 YouTube Tutorial:
-
+https://youtu.be/SVNZA2p4KKM
 ---
 📁 Source Code and Data:
 https://github.com/knodax-labs-demo/aws-data-and-ml-labs/tree/main/30-regression-demand-forecasting
