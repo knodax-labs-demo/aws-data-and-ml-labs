@@ -21,7 +21,7 @@ By completing this lab, you will be able to:
 
 ---
 🎥 YouTube Tutorial:
-
+https://youtu.be/5tXAST_ttrI
 ---
 📁 Source Code and Data:
 https://github.com/knodax-labs-demo/aws-data-and-ml-labs/tree/main/31-clustering-customer-segmentation
