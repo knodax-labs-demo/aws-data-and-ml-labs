@@ -31,6 +31,12 @@ Before starting, make sure you have:
 Amazon SageMaker resources are **not free**. This lab includes cleanup steps—follow them carefully.
 
 ---
+🎥 YouTube Tutorial:
+https://youtu.be/M5ZZcwwqZfk
+---
+📁 Source Code and Data:
+
+---
 
 ## 🏗️ Architecture Overview
 
