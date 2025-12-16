@@ -1,9 +1,6 @@
-# 🧪 Recommendation System with Amazon SageMaker Factorization Machines
+# Recommendation System with Amazon SageMaker Factorization Machines
 
-This repository contains a **hands-on lab** that demonstrates how to build a **recommendation system using Amazon SageMaker’s built-in Factorization Machines (FM) algorithm**. The lab walks through the complete end-to-end workflow, from environment setup and data preparation to model training, deployment, and inference.
-
-The exercise is designed for **beginners**, with clear explanations and practical steps.
-
+#### This hands-on lab demonstrates how to build a **recommendation system using Amazon SageMaker’s built-in Factorization Machines (FM) algorithm**. The lab walks through the complete end-to-end workflow, from environment setup and data preparation to model training, deployment, and inference.
 ---
 
 ## 📌 What You Will Learn
@@ -25,7 +22,6 @@ Before starting, make sure you have:
 
 * An AWS account
 * IAM permissions for:
-
   * Amazon SageMaker
   * Amazon S3
 * A SageMaker execution role with **read/write access to your S3 bucket**
