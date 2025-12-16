@@ -35,7 +35,7 @@ Amazon SageMaker resources are **not free**. This lab includes cleanup steps—f
 https://youtu.be/M5ZZcwwqZfk
 ---
 📁 Source Code and Data:
-
+https://github.com/knodax-labs-demo/aws-data-and-ml-labs/tree/main/32-recommendation-system-with-sagemaker-factorization-machines
 ---
 
 ## 🏗️ Architecture Overview
