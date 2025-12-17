@@ -27,6 +27,12 @@ To minimize costs:
 * **Delete resources immediately after the lab**
 
 ---
+🎥 YouTube Tutorial:
+https://youtu.be/KmIsgtEN6X0
+---
+📁 Source Code and Data:
+https://github.com/knodax-labs-demo/aws-data-and-ml-labs/tree/main/33-bedrock-text-summarization
+---
 
 ## Prerequisites
 
